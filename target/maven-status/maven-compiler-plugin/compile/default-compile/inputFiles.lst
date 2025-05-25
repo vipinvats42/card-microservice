@@ -2,6 +2,7 @@ G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Card
 G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Cards\src\main\java\com\pranshi\cards\CardsApplication.java
 G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Cards\src\main\java\com\pranshi\cards\constants\CardsConstants.java
 G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Cards\src\main\java\com\pranshi\cards\controller\CardsController.java
+G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Cards\src\main\java\com\pranshi\cards\dto\CardContactInfoDto.java
 G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Cards\src\main\java\com\pranshi\cards\dto\CardsDto.java
 G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Cards\src\main\java\com\pranshi\cards\dto\ErrorResponseDto.java
 G:\vscode-project-docker\docker-boot-project\microservice\card-mircoservice\Cards\src\main\java\com\pranshi\cards\dto\ResponseDto.java
