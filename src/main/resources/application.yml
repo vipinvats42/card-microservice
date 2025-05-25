@@ -26,7 +26,7 @@ spring:
     name: cards
        
   build:
-  version: "3.0"  
+    version: "3.0"  
 
   cards:
     message: "Welcome to Cards microservice"
