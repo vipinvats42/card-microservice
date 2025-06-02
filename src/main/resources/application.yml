@@ -15,12 +15,10 @@ spring:
       ddl-auto: update   
     show-sql: true   
   config:
-    import: 
-      - "application_qa.yml"
-      - "application_prod.yml"  
+    import: "optional:configserver:http://localhost:8071/"
   profiles:
      active:
-       - "qa"
+       - "prod"
   
   application:
     name: cards
@@ -28,12 +26,5 @@ spring:
   build:
     version: "3.0"  
 
-  cards:
-    message: "Welcome to Cards microservice"
-    contactDetails:
-      name: "Vipin Tyagi"
-      email: "vipinvats88@gmail.com"
-  onCallSupport:
-    -(555) 666 7766
-    -(555) 666 8877    
+   
      

@@ -23,5 +23,8 @@
       "sourceType": "com.pranshi.cards.dto.CardContactInfoDto"
     }
   ],
-  "hints": []
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
 }
